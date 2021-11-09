@@ -7,9 +7,11 @@ The notebooks are named with a number that indicates the order of creation and w
 
 The objective is to show the history of modifications that led to improvements in the competition's score.
 
+You can access the best notebook directly from[ kaggle](https://www.kaggle.com/gallileugenesis/competitions).
+
 Note: The notebooks will not discuss business aspects and data-driven decision making. This is an extremely important aspect in the field of data science, but it will be discussed at another time.
 
-# Housing Prices Competition for Kaggle Learn Users
+# [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course)
 
 Apply what you learned in the Machine Learning course on Kaggle Learn alongside others in the course.
 
